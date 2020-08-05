@@ -1,4 +1,4 @@
-## Hi, I'm Bassel
+## Hi, I'm Bassel!
 
 ### I'm currently working on my latest project, check it out: [blackjack.io](https://github.com/BasselR/blackjack.io)
 
