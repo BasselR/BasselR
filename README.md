@@ -16,18 +16,22 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSC]
 
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
-[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][C]
-[<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />][Java]
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][C]
+[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" />][Java]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+<!--
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
+-->
+
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" />][Javascript]
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 
 [<img align="left" alt="MySQL" width="26px" height="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][MySQL]
 
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
+[<img align="left" alt="MongoDB" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][MongoDB]
 
 [<img align="left" alt="Bash" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][Bash]
 
@@ -35,6 +39,22 @@
 
 <!--
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+-->
+
+
+<!-- Borrowed --> 
+<!--
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+[<img align="left" alt="C++" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][C++]
+[<img align="left" alt="C" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][C]
+[<img align="left" alt="Java" width="28px" height="26px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" />][Java]
+[<img align="left" alt="Python" width="32px" height="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
+[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][Git]
+[<img align="left" alt="Bash" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][Bash]
+[<img align="left" alt="MongoDB" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][MongoDB]
+[<img align="left" alt="VSC" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][VSC]
 -->
 
 <br />
@@ -56,6 +76,7 @@
 [Git]: https://git-scm.com/
 [Bash]: https://www.gnu.org/software/bash/
 [MySQL]: https://www.mysql.com/
+[MongoDB]: https://www.mongodb.com/
 [VSC]: https://code.visualstudio.com/
 
 <!--
